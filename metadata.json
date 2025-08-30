@@ -1,0 +1,8 @@
+{
+  "name": "Copy of StudyMate: AI PDF Q&A",
+  "description": "An AI-powered academic assistant that enables students to interact with their study materials—such as textbooks, lecture notes, and research papers—in a conversational, question-answering format. Upload PDFs and ask natural-language questions to get direct, well-contextualized answers referenced from the source content.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
